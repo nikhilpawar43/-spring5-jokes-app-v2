@@ -2,7 +2,7 @@ package guru.springframework.spring5jokesappv2.service;
 
 import org.springframework.stereotype.Service;
 
-import guru.springframework.norris.chuck.ChuckNorrisQuotes;
+import guru.springframework.spring5jokesappv2.external.ChuckNorrisQuotes;
 
 @Service
 public class JokeServiceImpl implements JokeService {
